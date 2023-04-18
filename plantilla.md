@@ -1,16 +1,19 @@
-## (Nombre del proyecto)  
+## MUSITOPIA  
 
-(Plantilla para la creación de un proyecto en ideapolis)
-
-Proyecto de Inteligencia Colectiva y Formación en la Empresa 
-[Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
-ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
+Una plataforma de carácter colaborativo que integra capacidades y aplicaciones que se
+encuentran en otro tipo de plataformas de forma independiente pero que sean integrables en esta
+nueva plataforma que cubra las necesidades que tienen los músicos, desde los aspectos creativos,
+pasando por los aspectos formativos, divulgativos e interpretativos en el marco de un ecosistema
+vital que permita además una monetización digna para los músicos que participan en ella y que les
+permita vivir de su talento y a la vez beneficiar al público que disfruta y demanda su música y
+creaciones. Este ecosistema que puede otorgar prestaciones de realidad aumentada para los usuarios
+y los músicos que participan en ella.
 
 ----
 
-**Titulo** : _______
+**Titulo** : Musitopia 
 
-**Autor(es)** ______________
+**Autor(es)** ______Lidia Chávez; María Begoña López López________
 
 **Resumen** : _________
 
