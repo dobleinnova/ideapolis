@@ -88,6 +88,7 @@ Ecosistema-comunidad virtual y vital de músicos de carácter colaborativo e int
 **Visión:**
 En términos de visión, Musitopia busca convertirse, en el marco de un ecosistema-comunidad virtual, en una plataforma de referencia para los creadores musicales de forma tal que Musitopia logre distinguirse y ser reconocido como un ecosistema completo y de alto valor añadido en la industria musical con miras a ser un vaso comunicante y catalizador de innovación a la vez que propicia el desarrollo creativo y artístico de los músicos, al proporcionar herramientas, capacidades y recursos que coadyuven en pos de la expresión del talento, de las interrelaciones con otros creadores así como también del público en general, teniendo siempre presente el reconocimiento artístico y la remuneración justa en el marco de un entorno digital en constante cambio en donde la música y la tecnología se fusionen para estimular y potenciar la creatividad y el enriquecimiento de la experiencia musical para todos los que participan de ella.
 
+
 **Acerca de nosotros:** 
 Somos una plataforma en el marco de un ecosistema vital creativo y colaborativo de músicos en donde todos tienen cabida. Musitopia logra integrar aplicaciones y capacidades diseñadas para cubrir las necesidades de los diversos aspectos que tienen que ver con la divulgación, formación, interpretación y creatividad permitiendo desarrollar el talento que a su vez sea justamente remunerado al tiempo que se logra compartir con otros creadores y público en general en un entorno de cocreación de valor en donde como bien reza nuestro lema, la música encuentra su propia voz.
 
@@ -176,6 +177,14 @@ A continuación, se pueden observar la imagen que queremos para nuestra presenta
 
 ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/5f06b316-5628-4d2a-8bcf-24de4792ca5d)
 
+* Boceto fanpage en Redes Sociales como Facebook
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/f7439c58-09bc-40db-b455-5bc30e7313f6)
+
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/4f09d3b0-1e67-4823-a42c-8e85382db63c)
+
+
 
 * redes sociales
 
@@ -204,30 +213,55 @@ Para ver el impacto en redes sociales, vamos a utilizar el programa Hootsuite, a
 
 * Grado de consecución del proyecto 
 
-•	Musitopia está en fase de ideación y planificación con algunos bosquejos sobre hipotéticos bosquejos en cuanto al prototipado que aun necesitan de un mayor proceso de iteraciones para mejorar el mismo.
+•	Musitopia está en fase de ideación y planificación con algunos bosquejos sobre hipotéticos bosquejos en cuanto al prototipado que aun necesitan de un mayor proceso de iteraciones para mejorar el mismo
 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Problemas identificados 
+
+
+•	Mantenimiento de la remuneración digna para los músicos ya que la forma en la que se consume música hoy por hoy ha cambiado y ello afecta los procesos de monetización de los músicos.
+•	Exposición a entornos VUCA cambiantes, complejos y altanamente tecnológicos que influyen en la forma en que los músicos crean, divulgan e interpretan sus producciones (la pandemia fue un claro ejemplo de ello).
+•	Ausencia de una plataforma integral para músicos en el sentido de misión y visión en la que se plantea Musitopia.
+•	Incertidumbre en el futuro de la industria musical. Un claro ejemplo lo tenemos en la irrupción disruptiva de la IA y como esta pudiera comprometer el trabajo propio del creador musical planteando el dilema de la oposición de los músicos en contra de la IA vs la cocreación de valor con la IA.
+•	Necesidad de abordar enfoques colaborativos. En ecosistemas virtuales como Musitopia esto es un imperativo vital que aumenta la propuesta de valor y la experiencia de usuario en todos los sentidos.
+•	Necesidad de un importante desembolso inicial si queremos hacer publicidad en otros medios que no sean las típicas redes sociales.
+•	Manejo y gestión de los datos y la armonización de aspectos que tienen que ver con la propiedad intelectual al ser una plataforma en donde interactúan agentes de todas partes del mundo con características heterogéneas.
+•	Relaciones con terceras partes que tienen sus propios objetivos de negocio y uso de data de usuarios. 
+•	Problemas de financiación inicial y de implementación a nivel técnico.
+
+
+* Propuestas de mejora 
+
+
+Musitopia cuenta con un gran potencial en todos lo sentidos, con lo cual las propuestas de mejora deben centrarse en ampliar las oportunidades de monetización de los creativos musicales, Integrar las tics en el marco de la plataforma bien con propuestas de realidad aumentada, bien con la cocreación de valor por medio del uso de la Inteligencia Artificial. Por otro lado, es importante tener en mente la mejora de la experiencia de los usuarios que interactúan en el marco de Musitopia y que están íntimamente relacionados con el impulso y la divulgación del trabajo creativo de los músicos.
+
+
+* Posible interés del proyecto  
+
+En este ámbito, debe considerarse a una serie de grupos y personas que responden a las necesidades y oportunidades que pretende cubrir Musitopia. En tal sentido, cabe mencionar como grupos de interés a los músicos y creadores musicales, público y amantes de la música en general, empresas y marcas relacionadas con la industria musical, instituciones educativas y gubernamentales y por último los grupos interesados en desarrollos de tecnologías emergentes que puedan ser aplicadas a la propuesta de negocio de Musitopia ya que la plataforma es un ecosistema ideal para desarrolladores de experiencias innovadoras de carácter vanguardista que fusionen los aspectos tecnológicos con los de la música.
 
 
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
-
-(...)
-
+* Video sobre la Metodología Design Thinking
+https://youtu.be/VlBn_14cO00
+* Herramienta de coordinación Trello: https://trello.com/b/UpPp2eZc/lidia-y-bego 
+* Herramienta Canvas “Canvanizer”: https://next.canvanizer.com/canvas/rGi8EWlXRSGis 
 
 
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/ac24f2e0-7de6-474b-af14-cb0027894403)
 
 
+ * Herramienta Trello: https://trello.com/b/UpPp2eZc/lidia-y-bego
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/4eedaff8-774c-4f4c-a903-3c4feea65a9d)
 
 ----
 
 **Referencias y recursos utilizados** :
-
+* Repositorio de código GitHub para crear la propuesta (https://github.com/)
+* Trello para la planificación del proyecto (https://trello.com/en)
+* Canva para la presentación de la comunidad (https://next.canvanizer.com)
+* Técnicas de Design Thinking en el proceso (https://www.designthinking.es/inicio/index.php)
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
@@ -240,6 +274,42 @@ Referencias y recursos:
 * (Recursos tipo Imágenes, videos , etc.) 
 
 
+**Preguntas frecuentes ** :
+
+¿Cuál sería el segmento de mercado?
+Va dirigido el producto a Músicos, productores, creativos, público en general, discográficas, representantes de músicos y publicistas, entusiastas de las tecnologías emergenes.
+
+
+¿Cuál es la Propuesta de Valor?
+Según las necesidades de nuestros clientes y como se resuelven estas con mi producto o servicio, sería una plataforma de carácter colaborativo que además integre capacidades y aplicaciones que se encuentren en otro tipo de plataformas de forma independiente pero que sean integrables en esta nueva plataforma que cubra las necesidades que tienen los músicos, desde los aspectos creativos, pasando por los aspectos formativos, divulgativos e interpretativos.
+
+
+¿Qué Canales usarán?
+En este caso por medio de la propia Musitopía;  en Facebook, Twitter, Youtube y apps dispositivos portables.
+
+
+¿Cuál será la Relación con los clientes?
+En nuestro caso será por medio de las redes sociales, eventos de interés, también en la propia Musitopía.
+
+
+¿Cuál será la fuente de Ingresos?
+Evaluaremos lo que están dispuestos a pagar los clientes en función de la propuesta de valor del producto, en este caso se contemplarían suscripciones mensuales, también venta de paquetes VIP personalizados que cada creador podrá diseñar en función de lo que quiera ofrecer a los clientes, que va desde experiencias musicales hasta formación y mentorización, publicidad.
+
+
+¿Cuáles son sus recursos claves?
+Tendríamos el contenido virtual, el catálogo de los artistas y otros recursos, servidores físicos, acuerdos con discográficas, empleados, apps y web, marca, propiedad intelectual, datos.
+
+
+¿Cuáles serían las actividades claves?
+Expresado en las acciones que se han de realizar para tener el producto en el mercado de forma tal que se puedan realizar las ventas, en este caso mantenimiento de web y apps, presencia de publicidad en especial con los usuarios fremium de musitopía, licencia de contenidos, gestión de big data.
+
+
+¿Han analizado las asociaciones claves para la plataforma?
+Hemos considerado la ayuda a necesitar de socios clave que debemos trabajar, en este caso, acuerdos de colaboración con instituciones, medios de comunicación, organismos públicos y privados, proveedores de servicios de internet, creadores de contenidos, discográficas y sociedades de derechos de autor.
+
+
+Háblenos de su estructura de costes:
+Podemos decir que las áreas de producción, distribución y marketing, tratando de optimizar la estructura de costes de manera de aumentar la rentabilidad de nuestro proyecto de negocio. En este caso, costes fijos (servidores, personal, otros costes fijos), variables (cuotas de clientes), licencias y propiedad intelectual.
 
 
 
