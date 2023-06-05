@@ -61,10 +61,15 @@ En principio se escoge este tipo de licencia porque si bien es cierto el proyect
 *  :octocat: (github url) 
 * Twitter 
 * ... 
-•	  Github: 
-•	  Twitter: https://twitter.com/musitopia2023 
-•	  Youtube: https://www.youtube.com/channel/UCENlxfkBJyHP78Pjz3_04CA 
-•	  Faceboook: https://www.facebook.com/profile.php?id=100093224384927 
+•	  :octocat: Github: 
+•	  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/05adef01-463e-463f-bfea-52812a526fd5)
+Twitter: https://twitter.com/musitopia2023 
+
+•	 ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/7dffe870-f51b-4ce1-af23-81ad974d611a)
+ Youtube: https://www.youtube.com/channel/UCENlxfkBJyHP78Pjz3_04CA 
+ 
+•	  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/fe68be4c-5fe7-4d1d-bfff-fccdc8438d6b)
+Faceboook: https://www.facebook.com/profile.php?id=100093224384927 
 
 ---
 **Motivación y descripción**
