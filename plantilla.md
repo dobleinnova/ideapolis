@@ -219,13 +219,21 @@ Musitopia está en fase de ideación y planificación con algunos bosquejos sobr
 
 
 •	Mantenimiento de la remuneración digna para los músicos ya que la forma en la que se consume música hoy por hoy ha cambiado y ello afecta los procesos de monetización de los músicos.
+
 •	Exposición a entornos VUCA cambiantes, complejos y altanamente tecnológicos que influyen en la forma en que los músicos crean, divulgan e interpretan sus producciones (la pandemia fue un claro ejemplo de ello).
+
 •	Ausencia de una plataforma integral para músicos en el sentido de misión y visión en la que se plantea Musitopia.
+
 •	Incertidumbre en el futuro de la industria musical. Un claro ejemplo lo tenemos en la irrupción disruptiva de la IA y como esta pudiera comprometer el trabajo propio del creador musical planteando el dilema de la oposición de los músicos en contra de la IA vs la cocreación de valor con la IA.
+
 •	Necesidad de abordar enfoques colaborativos. En ecosistemas virtuales como Musitopia esto es un imperativo vital que aumenta la propuesta de valor y la experiencia de usuario en todos los sentidos.
+
 •	Necesidad de un importante desembolso inicial si queremos hacer publicidad en otros medios que no sean las típicas redes sociales.
+
 •	Manejo y gestión de los datos y la armonización de aspectos que tienen que ver con la propiedad intelectual al ser una plataforma en donde interactúan agentes de todas partes del mundo con características heterogéneas.
+
 •	Relaciones con terceras partes que tienen sus propios objetivos de negocio y uso de data de usuarios. 
+
 •	Problemas de financiación inicial y de implementación a nivel técnico.
 
 
