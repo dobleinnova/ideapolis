@@ -109,23 +109,37 @@ El proyecto surgió a raíz del empleo de las herramientas y toolkit de la metod
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
+Proyecto Musitopia en Trello https://trello.com/b/UpPp2eZc/lidia-y-bego 
+
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
 * Jamendo.com https://www.jamendo.com/ ... ¿por qué? Porque es una plataforma en donde puedes encontrar artistas independientes y si eres artista te puedes unir a ellos. También tienen un Jamendo Licensing de manera que negocios que requieran usar ciertos contenidos, envíen una solicitud de autorización de licencia para poder poner música en el establecimiento físico. La música se puede encontrar de forma gratuita de artistas independientes poco conocidos y puedo descargar y dar me gusta en la plataforma bajo licencia fremium y ya pagar si se va a emplear de forma comercial.
 
-*Otra idea inspiradora es la de sesión de micros abiertos que está en YouTube 
+* Otra idea inspiradora es la de sesión de micros abiertos que está en YouTube 
 https://www.youtube.com/channel/UCpjAXIWEgzXXfvyYlmDUX-Q 
 En este canal se busca promocionar a artistas emergentes. En el marco de ese canal de youtube, hay pequeños estudios que además están en diversas locaciones en donde se hacen muchos directos en versión acústica 
 
 
 
 **Necesidad/oportunidad** 
+* Necesidad de brindar una monetización justa a los músicos
+* Necesidades colaborativas en el marco de plataformas virtuales
+* Cocreación de valor entre los diversos agentes que particiapn de la plataforma virtual
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
-
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
 
+**Motivación de la propuesta**
+
+* Colaboración y cocreación de valor entre músicos y público en general.
+Monetización digna de los músicos. Monetización de las creaciones artísticas de los músicos, eliminando cadenas de intermediación que permiten aumentar el porcentaje de ganancias de los artistas. 
+* Plataforma de carácter colaborativo que integre capacidades y aplicaciones.
+* Cubrir necesidades y abrir oportunidades al atender aspectos que tienen que ver con elementos formativos, divulgativos, creativos e interpretativos en el marco de la plataforma virtual.
+* Beneficiar al público en general que disfruta y demanda este tipo de creaciones.
+
+
+**Personas/Usuarios**    
+
+Va dirigido el producto a Músicos, productores, creativos, público en general, discográficas, representantes de músicos y publicistas, entusiastas de las tecnologías emergenes.
 
 
 
