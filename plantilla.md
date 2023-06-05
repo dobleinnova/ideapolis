@@ -112,7 +112,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 Proyecto Musitopia en Trello https://trello.com/b/UpPp2eZc/lidia-y-bego 
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
 
 * Jamendo.com https://www.jamendo.com/ ... ¿por qué? Porque es una plataforma en donde puedes encontrar artistas independientes y si eres artista te puedes unir a ellos. También tienen un Jamendo Licensing de manera que negocios que requieran usar ciertos contenidos, envíen una solicitud de autorización de licencia para poder poner música en el establecimiento físico. La música se puede encontrar de forma gratuita de artistas independientes poco conocidos y puedo descargar y dar me gusta en la plataforma bajo licencia fremium y ya pagar si se va a emplear de forma comercial.
 
