@@ -58,11 +58,11 @@ En principio se escoge este tipo de licencia porque si bien es cierto el proyect
 
 
 
-*  :octocat: (github url) 
+*  :octocat: (github url) https://github.com/dobleinnova/ideapolis/blob/main/plantilla.md
 * 
 * ... 
 * 
-•	  :octocat: Github: 
+•	  :octocat: Github:  https://github.com/dobleinnova/ideapolis/blob/main/plantilla.md
 
 •	  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/05adef01-463e-463f-bfea-52812a526fd5)
 Twitter: https://twitter.com/musitopia2023 
@@ -108,7 +108,7 @@ El proyecto surgió a raíz del empleo de las herramientas y toolkit de la metod
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Trello: 
 
 Proyecto Musitopia en Trello https://trello.com/b/UpPp2eZc/lidia-y-bego 
 
