@@ -145,11 +145,46 @@ Va dirigido el producto a Músicos, productores, creativos, público en general,
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+* Cabeceros
+Cabeceros hipotéticos a emplear en función de los colores corporativos de Musitopia y las Redes Sociales
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/ddef2bb4-9576-4c03-848b-c5a28e31b3f1)
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/77f86fb2-9f78-4562-827f-e0f490b5be4e)
 
-* redes sociales (...) 
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/0a719a51-c6f9-4c18-891b-c41262dbb55c)
+
+* Logo
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/cc1bca57-77c8-4d53-ac48-eea19d052746)
+
+* Imagen visual 
+A continuación, se pueden observar la imagen que queremos para nuestra presentar para nuestras plataformas presentando una landing page aproximada
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/ccba311e-7117-402f-a4b6-352ad679cd65)
+
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/fa05e756-10b0-4864-a7fe-ba9a9e5e36a8)
+
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/9121bf6e-5748-4e7c-ae97-96364dfa6ff1)
+
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/f0398f2d-7f2b-49d3-98ba-2f53e8759846)
+
+
+![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/5f06b316-5628-4d2a-8bcf-24de4792ca5d)
+
+
+* redes sociales
+
+
+•	  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/05adef01-463e-463f-bfea-52812a526fd5)
+Twitter: https://twitter.com/musitopia2023 
+
+•	 ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/7dffe870-f51b-4ce1-af23-81ad974d611a)
+ Youtube: https://www.youtube.com/channel/UCENlxfkBJyHP78Pjz3_04CA 
+ 
+•	  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/fe68be4c-5fe7-4d1d-bfff-fccdc8438d6b)
+Faceboook: https://www.facebook.com/profile.php?id=100093224384927 
 
 * publicidad: banner (... ) 
 
