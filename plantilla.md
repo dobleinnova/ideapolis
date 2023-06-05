@@ -147,9 +147,12 @@ Va dirigido el producto a Músicos, productores, creativos, público en general,
 
 * Cabeceros
 Cabeceros hipotéticos a emplear en función de los colores corporativos de Musitopia y las Redes Sociales
+
 ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/ddef2bb4-9576-4c03-848b-c5a28e31b3f1)
 
+
 ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/77f86fb2-9f78-4562-827f-e0f490b5be4e)
+
 
 ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/0a719a51-c6f9-4c18-891b-c41262dbb55c)
 
@@ -192,12 +195,7 @@ Faceboook: https://www.facebook.com/profile.php?id=100093224384927
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
-
-
+Para ver el impacto en redes sociales, vamos a utilizar el programa Hootsuite, al tener consolidada la plataforma con clientes y poder administrar múltiples redes sociales en un mismo lugar, además esta herramienta nos permite obtener métricas y analizar la competencia. También se empleará la minería de datos por medio de la herramienta rapidminer que permitirá realizar un análisis de sentimientos para evaluar y medir los niveles de aceptación de la comunidad.
 
 
 
@@ -205,6 +203,9 @@ Faceboook: https://www.facebook.com/profile.php?id=100093224384927
 
 
 * Grado de consecución del proyecto 
+
+•	Musitopia está en fase de ideación y planificación con algunos bosquejos sobre hipotéticos bosquejos en cuanto al prototipado que aun necesitan de un mayor proceso de iteraciones para mejorar el mismo.
+
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
