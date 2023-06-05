@@ -80,6 +80,7 @@ Motivación y descripción de Musitopia: El mundo vivió un frenazo de las activ
 **¿Quiénes somos?** 
 Somos un grupo de dos alumnas pertenecientes al Máster de Gestión de Tecnologías y Procesos de Negocio quienes en el marco de la asignatura Inteligencia Colectiva y la Formación en las Empresas y una vez completado una serie de ejercicios por medio del empleo de metodologías basadas Desing Thinking mediante el uso de las herramientas del toolkit como mapas de empatía, seis sombreros para pensar, canvas y brainstorming, que nos resultaron de gran utilidad para organizar de una forma estructurada el proyecto Musitopia cuya motivación, descripción y resumen pueden leerse en los párrafos precedentes y que en síntesis considera oportuno cubrir la necesidad de crear una comunidad vital de músicos que sientan la libertad de elaborar contenidos,  en medio de una época difícil como la pandemia y la postpandemia de forma tal que puedan tener otras opciones para seguir remunerando y monetizando de forma justa sus creaciones además de cocrear valor en el marco del sistema de la comunidad por medio de la interacción creativa con otros músicos y público en general, interesadas en las actividades de la comunidad de Musitopia.
 
+
 **Misión:**
 Ecosistema-comunidad virtual y vital de músicos de carácter colaborativo e integrable con otras capacidades y aplicaciones cuya misión es la cocreación de valor creativo y su difusión al compartir las obras en el marco del sistema de Musitopia teniendo presente la importancia de garantizar una monetización justa en un entorno de libertad creativa, al tiempo que beneficia a la comunidad en general al ofrecer un espacio para demandar y disfrutar de creaciones musicales de calidad.
 
@@ -100,15 +101,22 @@ Somos una plataforma en el marco de un ecosistema vital creativo y colaborativo 
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
+El proyecto surgió a raíz del empleo de las herramientas y toolkit de la metodología Design Thinking realizado en clase, como mapas de empatía, seis sombreros para pensar, canvas y brainstorming que nos resultaron de gran utilidad para organizar de una forma estructurada el proyecto Musitopia al darnos cuenta de que era necesario crear una comunidad de músicos al detectar una necesidad insatisfecha lo que a su vez lleva a vislumbrar la oportunidad de crear una plataforma independiente en el marco de un ecosistema colaborativo vital y virtual de músicos y público que facilite la cocreación de valor en el marco de la misma.
+
+
+
 ### Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* Jamendo.com https://www.jamendo.com/ ... ¿por qué? Porque es una plataforma en donde puedes encontrar artistas independientes y si eres artista te puedes unir a ellos. También tienen un Jamendo Licensing de manera que negocios que requieran usar ciertos contenidos, envíen una solicitud de autorización de licencia para poder poner música en el establecimiento físico. La música se puede encontrar de forma gratuita de artistas independientes poco conocidos y puedo descargar y dar me gusta en la plataforma bajo licencia fremium y ya pagar si se va a emplear de forma comercial.
+
+*Otra idea inspiradora es la de sesión de micros abiertos que está en YouTube 
+https://www.youtube.com/channel/UCpjAXIWEgzXXfvyYlmDUX-Q 
+En este canal se busca promocionar a artistas emergentes. En el marco de ese canal de youtube, hay pequeños estudios que además están en diversas locaciones en donde se hacen muchos directos en versión acústica 
+
 
 
 **Necesidad/oportunidad** 
