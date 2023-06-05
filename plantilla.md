@@ -59,9 +59,10 @@ En principio se escoge este tipo de licencia porque si bien es cierto el proyect
 
 
 *  :octocat: (github url) 
-* Twitter 
+* 
 * ... 
 •	  :octocat: Github: 
+
 •	  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/05adef01-463e-463f-bfea-52812a526fd5)
 Twitter: https://twitter.com/musitopia2023 
 
