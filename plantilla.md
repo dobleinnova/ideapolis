@@ -274,7 +274,7 @@ https://youtu.be/VlBn_14cO00
 * (Recursos tipo Imágenes, videos , etc.) 
 
 
-**Preguntas frecuentes ** 
+** Preguntas frecuentes ** 
 
 ¿Cuál sería el segmento de mercado?
 Va dirigido el producto a Músicos, productores, creativos, público en general, discográficas, representantes de músicos y publicistas, entusiastas de las tecnologías emergenes.
