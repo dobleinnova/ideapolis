@@ -13,11 +13,12 @@ y los músicos que participan en ella.
 
 **Titulo** : Musitopia 
 
-**Autor(es)** ______Lidia Chávez; María Begoña López López________
+**Autor(es)** Lidia Alemania Chávez Arana; María Begoña López López
 
-**Resumen** : _________
+**Resumen** : Musitopia es una plataforma de carácter colaborativo que integra capacidades y aplicaciones que permiten cubrir las necesidades de músicos en aspectos que tienen que ver con la creatividad, formación, divulgación e interpretación en el marco de un ecosistema vital que permite además procesos de monetización digna para los músicos que participan en ella a la vez que se logra beneficiar al resto de la comunidad al poder demandar tanto las creaciones como las obras musicales.
 
-**logotipo** :  ________
+**logotipo** :  ![imagen](https://github.com/dobleinnova/ideapolis/assets/131187436/0a7f4867-cce1-4b6e-a0c3-60892ea5959c)
+
 
 **Slogan** (frase motivadora/inspiradora): ________
 
